@@ -4,6 +4,7 @@ You can see some of my __projects__ realized by following various trainings on _
 -----------------
 
 ##My Courses :
+
 __Career Path__
 * Back-End Engineer *enrolled*
 
