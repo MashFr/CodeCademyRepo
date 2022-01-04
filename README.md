@@ -3,10 +3,10 @@ You can see some of my __projects__ realized by following various trainings on _
 [Codecademy](https://www.codecademy.com/)
 -----------------
 
-##My Courses :
+#My Courses :
 
-__Career Path__
-* Back-End Engineer *enrolled*
+__Career Path__ :
+* Back-End Engineer - *enrolled*
 
-__Skill Path__
-* Build Basic Android Apps with Java *100%*
+__Skill Path__ :
+* Build Basic Android Apps with Java - *100%*
