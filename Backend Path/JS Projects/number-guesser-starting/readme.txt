@@ -1,2 +1,2 @@
-Written in js. Utilizes existing code in other files on Codecademy. .
-__I create the script.js__
+#Written in js. Utilizes existing code in other files on Codecademy. .
+I create the script.js
